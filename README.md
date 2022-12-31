@@ -1,2 +1,15 @@
 # Estudio de las principales herramientas para el estudio de corte transversal
-Modelamiento de regresiones mediante OLS, tests, dummies, heterocedasticidad, endogeneidad, Logit y Probit, Datos panel.
+Exploración y modelamiento de variables mediante corte trasversal y datos panel. La principal guía del proyecto será el API Reference de la librería `statsmodels`: https://www.statsmodels.org/stable/api.html
+
+<p align="center">
+  <img src="figures/lineal_regr.png" width="800">
+</p>
+
+El estudio de modelos de corte trasversal y datos panel se divide por los siguientes:
+1. Modelo de regresión lineal
+2. Otros temas de regresión
+3. Modelo lineal sin supuestos
+4. Variable dependiente binaria: binominal
+5. Variable dependiente binaria: multinomial
+6. Datos panel
+7. Evaluación de impacto
