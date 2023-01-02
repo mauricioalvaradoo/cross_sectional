@@ -12,4 +12,3 @@ El estudio de modelos de corte trasversal y datos panel se divide por los siguie
 4. Variable dependiente binominal.
 5. Variable dependiente multinomial.
 6. Datos panel.
-7. Evaluación de impacto.
