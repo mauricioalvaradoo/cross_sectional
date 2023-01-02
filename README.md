@@ -9,7 +9,7 @@ El estudio de modelos de corte trasversal y datos panel se divide por los siguie
 1. Modelo de regresión lineal.
 2. Otros temas de regresión.
 3. Modelo lineal sin supuestos.
-4. Variable dependiente binaria: binominal.
-5. Variable dependiente binaria: multinomial.
+4. Variable dependiente binominal.
+5. Variable dependiente multinomial.
 6. Datos panel.
 7. Evaluación de impacto.
